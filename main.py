@@ -45,6 +45,6 @@ while True:
 from telegram import Bot
 import os
 
-bot = Bot(token=os.environ['7572591928:AAHwEM2lT4IUQBRoOH2rQkz4ry0fUzg0Uik'])
-bot.send_message(chat_id=os.environ['247319776'], text="🔔 Test de message depuis Render")
+bot = Bot(token=os.environ[7572591928:AAHwEM2lT4IUQBRoOH2rQkz4ry0fUzg0Uik])
+bot.send_message(chat_id=os.environ[247319776], text="🔔 Test de message depuis Render")
 
