@@ -8,7 +8,7 @@ BOT_TOKEN = "7572591928:AAHwEM2lT4IUQBRoOH2rQkz4ry0fUzg0Uik"
 TELEGRAM_CHAT_ID = "247319776"
 CHECK_INTERVAL = 60  # toutes les 60 secondes
 URL = "https://www.ticketmaster.fr/fr/manifestation/jul-billet/idmanif/581329"
-"https://www.ticketmaster.fr/fr/manifestation/jul-billet/idmanif/618685"
+      "https://www.ticketmaster.fr/fr/manifestation/jul-billet/idmanif/618685"
 
 
 def send_telegram_message(message):
