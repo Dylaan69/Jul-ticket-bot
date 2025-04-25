@@ -31,6 +31,7 @@ def check_ticket():
     return False
 
 keep_alive()
+send_telegram_message("✅ Le bot est bien lancé et fonctionne !")
 
 while True:
     try:
